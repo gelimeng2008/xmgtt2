@@ -1,0 +1,31 @@
+* { scrollbar-width: thin; scrollbar-color: #ff0e1f #fff; }
+::-webkit-scrollbar-track { background-color: #fff; }
+::-webkit-scrollbar { width: 7px; background-color:  #fff; }
+::-webkit-scrollbar-thumb { background-color:  #ff0e1f; }
+::selection { color: #000; background: #ff0e1f; }
+a:hover { color: #ff0e1f; }
+.heyday-promo { background-image: url('../image/3.jpg'); }
+.heyday-menu .nav-link.active, .heyday-menu .nav-link:hover { border-bottom-color: #ff0e1f; }
+.heyday-button { background-color: #ff0e1f; }
+a.heyday-button:hover { color: #fff; }
+.heyday-button:hover { -webkit-filter: drop-shadow(3px 3px 20px #ff0e1f); filter: drop-shadow(3px 3px 20px #ff0e1f); }
+.heyday-menu-dropdown-link .line { background-color: #ff0e1f; }
+.heyday-form input:focus, .heyday-form select:focus, .heyday-form textarea:focus { border-bottom-color: #ff0e1f; }
+.style-text { color: #ff0e1f; }
+.swal2-styled { background-color: #ff0e1f!important; }
+.swal2-styled:hover { -webkit-filter: drop-shadow(3px 3px 20px #ff0e1f)!important; filter: drop-shadow(3px 3px 20px #ff0e1f)!important; }
+.swal2-icon, .swal2-success-ring { border-color: #ff0e1f!important; }
+.swal2-icon-content { color: #ff0e1f!important; }
+.swal2-icon.swal2-error [class^=swal2-x-mark-line], .swal2-icon.swal2-success [class^=swal2-success-line] { background-color: #ff0e1f!important; }
+.heyday-counter-title { color: #ff0e1f; }
+.heyday-footer .subscribe input:focus { border-bottom-color: #ff0e1f; }
+.page-statistic .statistic-button:hover, .page-statistic .statistic-button.active { background-color: #ff0e1f; }
+.page-statistic .table.table-dark .thead-light tr { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#ff0e1f7a 50%,rgba(15,15,15,.8) 100%); }
+.page-statistic .table.table-dark tr:hover { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#ff0e1f7a 50%,rgba(15,15,15,.8) 100%); }
+.heyday-form .accordion-button:not(.collapsed) { border-bottom: 1px solid #ff0e1f; }
+.heyday-form .accordion-button:hover { border-bottom: 1px solid #ff0e1f; }
+code { color: #ff0e1f; }
+.news1 { background-image: url('../image/news-x1-1.jpg'); }
+.news2 { background-image: url('../image/news-x1-2.jpg'); }
+.news3 { background-image: url('../image/news-x1-3.jpg'); }
+@media (min-width:1200px) { .page-content { background-image: linear-gradient(to right,#17161ad0,#242124d0 50%,#17161ad0), url('../image/3.jpg'); } }

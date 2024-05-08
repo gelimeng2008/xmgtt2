@@ -1,0 +1,32 @@
+* { scrollbar-width: thin; scrollbar-color: #cb05a9 #fff; }
+::-webkit-scrollbar-track { background-color: #fff; }
+::-webkit-scrollbar { width: 7px; background-color:  #fff; }
+::-webkit-scrollbar-thumb { background-color:  #cb05a9; }
+::selection { color: #000; background: #cb05a9; }
+a:hover { color: #cb05a9; }
+.heyday-promo { background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../image/13.jpg'); }
+.heyday-menu .nav-link.active, .heyday-menu .nav-link:hover { border-bottom-color: #cb05a9; }
+.heyday-button { background-color: #cb05a9; }
+/* .heyday-logo img { margin-left: -27px; } */
+a.heyday-button:hover { color: #fff; }
+.heyday-button:hover { -webkit-filter: drop-shadow(3px 3px 20px #cb05a9); filter: drop-shadow(3px 3px 20px #cb05a9); }
+.heyday-menu-dropdown-link .line { background-color: #cb05a9; }
+.heyday-form input:focus, .heyday-form select:focus, .heyday-form textarea:focus { border-bottom-color: #cb05a9; }
+.style-text { color: #cb05a9; }
+.swal2-styled { background-color: #cb05a9!important; }
+.swal2-styled:hover { -webkit-filter: drop-shadow(3px 3px 20px #cb05a9)!important; filter: drop-shadow(3px 3px 20px #cb05a9)!important; }
+.swal2-icon, .swal2-success-ring { border-color: #cb05a9!important; }
+.swal2-icon-content { color: #cb05a9!important; }
+.swal2-icon.swal2-error [class^=swal2-x-mark-line], .swal2-icon.swal2-success [class^=swal2-success-line] { background-color: #cb05a9!important; }
+.heyday-counter-title { color: #cb05a9; }
+.heyday-footer .subscribe input:focus { border-bottom-color: #cb05a9; }
+.page-statistic .statistic-button:hover, .page-statistic .statistic-button.active { background-color: #cb05a9; }
+.page-statistic .table.table-dark .thead-light tr { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#cb05a97a 50%,rgba(15,15,15,.8) 100%); }
+.page-statistic .table.table-dark tr:hover { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#cb05a97a 50%,rgba(15,15,15,.8) 100%); }
+.heyday-form .accordion-button:not(.collapsed) { border-bottom: 1px solid #cb05a9; }
+.heyday-form .accordion-button:hover { border-bottom: 1px solid #cb05a9; }
+code { color: #cb05a9; }
+.news1 { background-image: url('../image/news-x10-1.jpg'); }
+.news2 { background-image: url('../image/news-x10-2.jpg'); }
+.news3 { background-image: url('../image/news-x10-3.jpg'); }
+@media (min-width:1200px) { .page-content { background-image: linear-gradient(to right,#17161ad0,#242124d0 50%,#17161ad0), url('../image/13.jpg'); } }

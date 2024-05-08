@@ -1,0 +1,31 @@
+* { scrollbar-width: thin; scrollbar-color: #298af1 #fff; }
+::-webkit-scrollbar-track { background-color: #fff; }
+::-webkit-scrollbar { width: 7px; background-color:  #fff; }
+::-webkit-scrollbar-thumb { background-color:  #298af1; }
+::selection { color: #000; background: #298af1; }
+a:hover { color: #298af1; }
+.heyday-promo { background-image: url('../image/10.jpg'); }
+.heyday-menu .nav-link.active, .heyday-menu .nav-link:hover { border-bottom-color: #298af1; }
+.heyday-button { background-color: #298af1; }
+a.heyday-button:hover { color: #fff; }
+.heyday-button:hover { -webkit-filter: drop-shadow(3px 3px 20px #298af1); filter: drop-shadow(3px 3px 20px #298af1); }
+.heyday-menu-dropdown-link .line { background-color: #298af1; }
+.heyday-form input:focus, .heyday-form select:focus, .heyday-form textarea:focus { border-bottom-color: #298af1; }
+.style-text { color: #298af1; }
+.swal2-styled { background-color: #298af1!important; }
+.swal2-styled:hover { -webkit-filter: drop-shadow(3px 3px 20px #298af1)!important; filter: drop-shadow(3px 3px 20px #298af1)!important; }
+.swal2-icon, .swal2-success-ring { border-color: #298af1!important; }
+.swal2-icon-content { color: #298af1!important; }
+.swal2-icon.swal2-error [class^=swal2-x-mark-line], .swal2-icon.swal2-success [class^=swal2-success-line] { background-color: #298af1!important; }
+.heyday-counter-title { color: #298af1; }
+.heyday-footer .subscribe input:focus { border-bottom-color: #298af1; }
+.page-statistic .statistic-button:hover, .page-statistic .statistic-button.active { background-color: #298af1; }
+.page-statistic .table.table-dark .thead-light tr { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#298af17a 50%,rgba(15,15,15,.8) 100%); }
+.page-statistic .table.table-dark tr:hover { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#298af17a 50%,rgba(15,15,15,.8) 100%); }
+.heyday-form .accordion-button:not(.collapsed) { border-bottom: 1px solid #298af1; }
+.heyday-form .accordion-button:hover { border-bottom: 1px solid #298af1; }
+code { color: #298af1; }
+.news1 { background-image: url('../image/news-x50-1.jpg'); }
+.news2 { background-image: url('../image/news-x50-2.jpg'); }
+.news3 { background-image: url('../image/news-x50-3.jpg'); }
+@media (min-width:1200px) { .page-content { background-image: linear-gradient(to right,#17161ad0,#242124d0 50%,#17161ad0), url('../image/10.jpg'); } }

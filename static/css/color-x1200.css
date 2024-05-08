@@ -1,0 +1,31 @@
+* { scrollbar-width: thin; scrollbar-color: #ff720e #fff; }
+::-webkit-scrollbar-track { background-color: #fff; }
+::-webkit-scrollbar { width: 7px; background-color:  #fff; }
+::-webkit-scrollbar-thumb { background-color:  #ff720e; }
+::selection { color: #000; background: #ff720e; }
+a:hover { color: #ff720e; }
+.heyday-promo { background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../image/17.jpg'); }
+.heyday-menu .nav-link.active, .heyday-menu .nav-link:hover { border-bottom-color: #ff720e; }
+.heyday-button { background-color: #ff720e; }
+a.heyday-button:hover { color: #fff; }
+.heyday-button:hover { -webkit-filter: drop-shadow(3px 3px 20px #ff720e); filter: drop-shadow(3px 3px 20px #ff720e); }
+.heyday-menu-dropdown-link .line { background-color: #ff720e; }
+.heyday-form input:focus, .heyday-form select:focus, .heyday-form textarea:focus { border-bottom-color: #ff720e; }
+.style-text { color: #ff720e; }
+.swal2-styled { background-color: #ff720e!important; }
+.swal2-styled:hover { -webkit-filter: drop-shadow(3px 3px 20px #ff720e)!important; filter: drop-shadow(3px 3px 20px #ff720e)!important; }
+.swal2-icon, .swal2-success-ring { border-color: #ff720e!important; }
+.swal2-icon-content { color: #ff720e!important; }
+.swal2-icon.swal2-error [class^=swal2-x-mark-line], .swal2-icon.swal2-success [class^=swal2-success-line] { background-color: #ff720e!important; }
+.heyday-counter-title { color: #ff720e; }
+.heyday-footer .subscribe input:focus { border-bottom-color: #ff720e; }
+.page-statistic .statistic-button:hover, .page-statistic .statistic-button.active { background-color: #ff720e; }
+.page-statistic .table.table-dark .thead-light tr { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#ff720e7a 50%,rgba(15,15,15,.8) 100%); }
+.page-statistic .table.table-dark tr:hover { background: linear-gradient(to right,rgba(15,15,15,.8) 0,#ff720e7a 50%,rgba(15,15,15,.8) 100%); }
+.heyday-form .accordion-button:not(.collapsed) { border-bottom: 1px solid #ff720e; }
+.heyday-form .accordion-button:hover { border-bottom: 1px solid #ff720e; }
+code { color: #ff720e; }
+.news1 { background-image: url('../image/news-x1200-1.jpg'); }
+.news2 { background-image: url('../image/news-x1200-2.jpg'); }
+.news3 { background-image: url('../image/news-x1200-3.jpg'); }
+@media (min-width:1200px) { .page-content { background-image: linear-gradient(to right,#17161ad0,#242124d0 50%,#17161ad0), url('../image/17.jpg'); } }
